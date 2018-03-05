@@ -6,4 +6,10 @@ class Constants {
     static final String KEY_RECYCLER_STATE = "recycler_state";
     static final String TIME_VALUE = "17:00";
     static final String RESPONSE_OBJECT = "response";
+    static final String ITEMS_OBJECT = "items";
+    static final String OVERVIEW_OBJECT = "Overview";
+    static final String LEAGUES_ARRAY = "leagues";
+    static final String EVENTS_ARRAY = "events";
+    static final String PARTICIPANTS_ARRAY = "participants";
+    static final String NAME = "name";
 }
